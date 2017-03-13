@@ -1,0 +1,882 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dfs",
+				"dfs_idx"
+			],
+			[
+				"P",
+				"PrintIMG"
+			],
+			[
+				"C",
+				"ConvertPath"
+			],
+			[
+				"cnt",
+				"cnt"
+			],
+			[
+				"int",
+				"INT16"
+			],
+			[
+				"Log",
+				"Logical_Maximum"
+			],
+			[
+				"Lo",
+				"Logical_Minimum"
+			],
+			[
+				"IOF",
+				"IOF_Array"
+			],
+			[
+				"log",
+				"Logical_Minimum"
+			],
+			[
+				"lo",
+				"Logical_Maximum"
+			],
+			[
+				"usage",
+				"Usage"
+			],
+			[
+				"Effect_",
+				"PID_Effect_Block_Index"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"coll",
+				"Collection"
+			],
+			[
+				"s",
+				"support"
+			],
+			[
+				"file",
+				"fileout"
+			],
+			[
+				"fi",
+				"fileout_open"
+			],
+			[
+				"p",
+				"printBytes"
+			],
+			[
+				"prin",
+				"printBytes"
+			],
+			[
+				"Short",
+				"ShortItem"
+			],
+			[
+				"Sho",
+				"ShortItem"
+			],
+			[
+				"copy",
+				"copyline"
+			],
+			[
+				"mathc",
+				"match2"
+			],
+			[
+				"math",
+				"match2"
+			],
+			[
+				"try",
+				"try\tTry/Except/Else"
+			],
+			[
+				"Unit",
+				"Unit_Exponent_Constants"
+			],
+			[
+				"cosntants",
+				"Usage_Page_Constants"
+			],
+			[
+				"consta",
+				"IOF_Constants"
+			],
+			[
+				"constan",
+				"Clc_Constants"
+			],
+			[
+				"co",
+				"Byte_Count"
+			],
+			[
+				"cons",
+				"Usage_Constants"
+			],
+			[
+				"G",
+				"Global_Items"
+			],
+			[
+				"cmd",
+				"cmdText"
+			],
+			[
+				"op",
+				"operationFunc"
+			],
+			[
+				"o",
+				"operation"
+			],
+			[
+				"fil",
+				"filenamePrefix"
+			],
+			[
+				"BAS",
+				"BASEW"
+			],
+			[
+				"BA",
+				"BASEW"
+			],
+			[
+				"B",
+				"BASEW"
+			],
+			[
+				"st",
+				"startpoint"
+			],
+			[
+				"sho",
+				"Short40"
+			],
+			[
+				"os",
+				"ostream"
+			],
+			[
+				"iter",
+				"iter"
+			],
+			[
+				"it",
+				"iterator"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"ss",
+				"ss"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"Set",
+				"Set"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"di",
+				"diskn"
+			],
+			[
+				"pr",
+				"printIP"
+			],
+			[
+				"net",
+				"netMask"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"m",
+				"maxn"
+			],
+			[
+				"rema",
+				"remainA"
+			],
+			[
+				"divi",
+				"divisor"
+			],
+			[
+				"div",
+				"divided"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"sw",
+				"swap"
+			],
+			[
+				"Byte",
+				"Byte3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/UvaOj/.gitignore",
+			"settings":
+			{
+				"buffer_size": 263,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/PackageDev/Support/Convert to ....sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/PackageDev/Support/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/PackageDev/Support/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/PackageDev/Support/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/PackageDev/Support/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/PackageDev/Support/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Packages/PackageDev/Support/Convert to ....sublime-build",
+				"Property List"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "coolforma",
+		"selected_items":
+		[
+			[
+				"coolforma",
+				"CoolFormat: Formatter Settings"
+			],
+			[
+				"packali",
+				"Package Control: List Packages"
+			],
+			[
+				"pains",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packal",
+				"Package Control: List Packages"
+			],
+			[
+				"pin",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"l",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"cool",
+				"CoolFormat: Quick Format"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"coolformat",
+				"CoolFormat: Formatter Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Side Bar"
+			],
+			[
+				"PC",
+				"Install Package Control"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 365.0,
+		"history":
+		[
+			"wget",
+			"wget 107.170.192.246:8001/llvm3.6/windows/clang-format.exe",
+			"wget http://107.170.192.246:8001/llvm3.6/windows/clang-format.exe",
+			"print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest();",
+			"print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"dh = hashlib.sha256(by).hexdigest();",
+			"by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read();",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );",
+			"pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path();",
+			"h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0';",
+			"import urllib.request,os,hashlib;",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/北京航空航天大学Buaaer/三本大学自我救赎/aoapc-bac2nd-master",
+		"/F/UvaOj"
+	],
+	"file_history":
+	[
+		"/F/UVAOj/Chapter6/p10410.in",
+		"/F/UVAOj/Chapter6/p10410.cpp",
+		"/F/UVAOj/Chapter6/fold/test.cpp",
+		"/F/UVAOj/Chapter6/fold/p10410",
+		"/F/UVAOj/Chapter6/p127.cpp",
+		"/F/UVAOj/Chapter6/fold/p127.cpp",
+		"/F/UVAOj/Chapter6/p806.in",
+		"/F/UVAOj/Chapter6/p806.cpp",
+		"/F/北京航空航天大学Buaaer/三本大学自我救赎/aoapc-bac2nd-master/ch6/UVa12171.cpp",
+		"/F/UVAOj/Chapter6/p1600.in",
+		"/F/UVAOj/Chapter6/p806.out",
+		"/F/UVAOj/Chapter6/p1600.cpp",
+		"/F/UVAOj/Chapter6/p804.cpp",
+		"/F/UVAOj/键盘指法.jpg",
+		"/F/MCU/STM32/工具tools/ffbStuff/PID FFB 调试/feedr1_count.txt",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/FFBManager.cpp",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/public.h",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/FFBRender.cpp",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/PID_DataStructure.cpp",
+		"/F/MCU/STM32/工具tools/ffbStuff/PID FFB 调试/statistic.py",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/inc/public.h",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/HID_PID_DescriptorGenTool.py",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/FFBManager.h",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/HID_DescriptorGen.out",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/HID_PID_Descriptor_Definitions.py",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/HID_Descriptor_Input.rptDsc",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/fold/HID_Descriptor_Input.out",
+		"/F/UVAOj/Chapter6/p12166.in",
+		"/F/UVAOj/Chapter6/p12166.cpp",
+		"/F/UVAOj/Chapter6/p12166.txt",
+		"/F/UVAOj/Chapter6/test.cpp",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/HID_usages.h",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/PID_Descriptor_tool.cpp",
+		"/F/北京航空航天大学Buaaer/三本大学自我救赎/aoapc-bac2nd-master/ch6/UVa1599.cpp",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/Default.sublime-commands",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/README.md",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/Coolformat.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/F/北京航空航天大学Buaaer/三本大学自我救赎/tass-sgi-stl-2.91.57-source/algorithm",
+		"/F/北京航空航天大学Buaaer/三本大学自我救赎/tass-sgi-stl-2.91.57-source/algobase.h",
+		"/F/北京航空航天大学Buaaer/三本大学自我救赎/tass-sgi-stl-2.91.57-source/algo.h",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/rptDsc/rptDsc.YAML-tmLanguage",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/rptDsc/rptDsc.tmLanguage",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/rptDsc/rptDsc.sublime-syntax",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/rptDsc/rptDscSyntax.sublime-syntax",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/HID_Descriptor_Input.in",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/rptDsc/rptDscSyntax.YAML-tmLanguage",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/rptDsc/rptDscSyntax.YAML-tmLanguage.yaml",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/rptDscSyntax.yaml",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/PID_usages.h",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/inc/vjoyinterface.h",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/HID_PID_Descriptor_tool.py",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/HID_PID_Descriptor_Defines.py",
+		"/F/MCU/STM32/工具tools/HID Descriptor tool by beantowel/HID_Descriptor_Input.out",
+		"/F/第二快速任务/s.py",
+		"/F/第二快速任务/search.py",
+		"/F/北京航空航天大学Buaaer/活动/数学建模/16国赛/MK3picker.py",
+		"/F/UVAOj/Chapter5/p12333.out",
+		"/F/UVAOj/Chapter5/p12333.in",
+		"/F/UVAOj/Chapter5/p12333.cpp",
+		"/F/UVAOj/Chapter5/p12333-1.cpp",
+		"/F/UVAOj/Chapter5/p1593.in",
+		"/F/UVAOj/Chapter5/p12333-0.cpp",
+		"/F/UVAOj/Chapter5/p12100.cpp",
+		"/F/UVAOj/Chapter5/p1595.cpp",
+		"/F/UVAOj/Chapter5/p10391.cpp",
+		"/F/UVAOj/Chapter5/p10763-1.cpp",
+		"/F/UVAOj/Chapter5/p1593.cpp",
+		"/F/UVAOj/Chapter5/p10935.cpp",
+		"/F/UVAOj/Chapter5/p1594.pdf",
+		"/F/UVAOj/Chapter5/p1594.cpp",
+		"/F/UVAOj/Chapter5/p1593.pdf",
+		"/F/UVAOj/Chapter5/fold/test1.cpp",
+		"/F/UVAOj/Chapter5/fold/test.cpp",
+		"/F/UVAOj/Chapter4/p815.cpp",
+		"/F/UVAOj/Chapter4/p509.cpp",
+		"/F/UVAOj/Chapter4/p1590.cpp",
+		"/F/UVAOj/Chapter4/p1590.pdf",
+		"/F/UVAOj/Chapter4/fold/test.c",
+		"/F/其他/websites/no-ads/9377广告弹窗又泛滥了，恶心_百度联盟吧_百度贴吧.html",
+		"/F/其他/websites/ads/2691115784.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/F/UVAOj/Chapter4/fold/test.cpp",
+		"/F/UVAOj/Chapter3/p1588.cpp",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/Default.sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/Clang Format/README.md",
+		"/F/UVAOj/Chapter3/p1587.cpp",
+		"/F/UVAOj/Chapter3/p10340.cpp",
+		"/F/UVAOj/Chapter3/p202.cpp",
+		"/F/UVAOj/Chapter3/ap11809.cpp",
+		"/F/UVAOj/Chapter3/p11809.cpp",
+		"/F/UVAOj/Chapter3/rand11809.py",
+		"/F/UVAOj/Chapter3/p1368.cpp",
+		"/F/UVAOj/Chapter3/p232.cpp",
+		"/F/UVAOj/Chapter3/p227.cpp",
+		"/F/UVAOj/fold/test.cpp",
+		"/F/MCU/STM32/资料books/PID FFB 调试/sequence.py",
+		"/F/UVAOj/count.cpp",
+		"/F/MCU/STM32/资料books/PID FFB 调试/statistic.py",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/test/源1.cpp",
+		"/F/MCU/STM32/资料books/PID FFB 调试/test.cpp",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/vjoyinterface.h",
+		"/F/visual studio projects/SimpleFeederWithReceptor/src/Main.cpp",
+		"/D/Sublime Text 3/sublime.py",
+		"/D/Sublime Text 3/changelog.txt",
+		"/D/Sublime Text 3/changelog",
+		"/F/MCU/STM32/资料books/PID FFB 调试/feedr.txt",
+		"/F/MCU/STM32/资料books/PID FFB 调试/statistic"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bfs_depth",
+			"idx",
+			"depth",
+			"n",
+			"color",
+			"Color",
+			"color",
+			"Color",
+			"color",
+			"Color",
+			"color",
+			"Color",
+			"color",
+			"Color",
+			"node",
+			"msbl",
+			"lsbl",
+			"len",
+			"white",
+			"q",
+			"z",
+			"k",
+			"i",
+			"k",
+			"i",
+			"line",
+			"maxForceN",
+			"bytecount",
+			"cnt",
+			"return",
+			"Feature",
+			"IOF_Array",
+			"input",
+			"Feature",
+			"report_ID",
+			"usage",
+			"Logical_Maximum(127",
+			"Device",
+			"compleSize",
+			"set",
+			"example-c",
+			"example",
+			"fileout_open",
+			"file_open",
+			"report_id",
+			"Eng",
+			"//",
+			"//0",
+			"report_ID(",
+			"//0",
+			"Eng",
+			"//0",
+			"out",
+			"report_ID",
+			"//",
+			"Eng",
+			"Eng_Lin_Time",
+			"isUnsign",
+			"isInt",
+			"Byte_Size",
+			"print",
+			"size",
+			"filename",
+			"fileiname",
+			"toBytes",
+			"isoutBlock",
+			"i",
+			"print",
+			"cmdText",
+			"i",
+			"text",
+			"isvalid",
+			"operationSubstr",
+			"operation",
+			"operationFunc",
+			"operationText",
+			"substr",
+			"i",
+			"printStr40",
+			"memset",
+			"i",
+			"BASEW",
+			"i",
+			"MAXL",
+			"lenc",
+			"lenb",
+			"lena",
+			"ic",
+			"ib",
+			"ia",
+			"printf",
+			"j",
+			"maxIndex",
+			"j",
+			"Short40",
+			"WIDTH",
+			"short",
+			"10",
+			"t",
+			"c",
+			"lenc",
+			"c",
+			"b",
+			"inta",
+			"a",
+			"c",
+			"s",
+			"case",
+			"i",
+			"40",
+			"n",
+			"cout",
+			"pos",
+			"int",
+			"pos",
+			"Sum",
+			"sum",
+			"Sum",
+			"Mean",
+			"mean",
+			"Mean",
+			"mean",
+			"Mean",
+			"mean",
+			"Mean",
+			"map<int, vector<int> >",
+			"i",
+			"string"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/UvaOj/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 241.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "uvaoj.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,23 @@
+#include <stdio.h>
+double x;
+unsigned long long y;
+unsigned char *c;
+const unsigned char arr[]={
+	0xff,0xff,0xff,0xff,0xff,0xff,0xef,0x7f};
+int main(){
+	scanf("%lf",&x);
+	y=(unsigned long long)x;
+	c=(unsigned char *)&x;
+	printf("e:%15.15e\n",x);
+	printf("char:");
+	for(int i=7;i>=0;i--){
+		printf("%2.2x ",c[i]);
+		c[i]=arr[i];
+	}
+	printf("\nchar:");
+	for(int i=7;i>=0;i--){
+		printf("%2.2x ",c[i]);
+	}
+	printf("\ne:%lle\n",x);
+	return 0;
+}
