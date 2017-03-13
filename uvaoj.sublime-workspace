@@ -259,15 +259,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/F/UvaOj/.gitignore",
-			"settings":
-			{
-				"buffer_size": 294,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/PackageDev/Support/Convert to ....sublime-build",
 	"build_system_choices":
@@ -483,6 +474,9 @@
 	],
 	"file_history":
 	[
+		"/F/git projects/ViGEm/.gitignore",
+		"/F/UvaOj/.gitignore",
+		"/F/git projects/FFBMK1/.gitignore",
 		"/F/UVAOj/Chapter6/p10410.in",
 		"/F/UVAOj/Chapter6/p10410.cpp",
 		"/F/UVAOj/Chapter6/fold/test.cpp",
@@ -755,37 +749,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/F/UvaOj/.gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 294,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								279,
-								279
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 330.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
