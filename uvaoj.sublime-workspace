@@ -263,7 +263,7 @@
 			"file": "/F/UvaOj/.gitignore",
 			"settings":
 			{
-				"buffer_size": 263,
+				"buffer_size": 294,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -764,15 +764,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 263,
+						"buffer_size": 294,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								263,
-								263
+								279,
+								279
 							]
 						],
 						"settings":
@@ -780,7 +780,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 242.0,
+						"translation.y": 330.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

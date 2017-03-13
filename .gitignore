@@ -28,5 +28,11 @@
 *.out
 *.app
 
+# Debug
+*.pdf
+*.in
+*.out
+*.py
+
 #folder
 /fold
